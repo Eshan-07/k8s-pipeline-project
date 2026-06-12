@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Env / secrets
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
