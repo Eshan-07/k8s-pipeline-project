@@ -5,7 +5,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
-# k8s-pipeline-project
+# k8s Pipeline Project
 
 I built this to learn DevOps by actually doing it instead of just watching tutorials. It takes a small app and runs it through the whole lifecycle a real service goes through: container it, ship it through a CI pipeline, scan it for security issues, deploy it to Kubernetes (both locally and on a real cloud cluster), and monitor it.
 
