@@ -199,7 +199,7 @@ I kept a running log of everything that broke and how I fixed it in [INCIDENTS.m
 
 ## What I took away from this
 
-- The app is the easy part. The real work, and the actual skill, is everything around it — the pipeline, the infrastructure, the monitoring.
+- The app is the easy part. The real work, and the actual skill, is everything around it  the pipeline, the infrastructure, the monitoring.
 - Most of Kubernetes makes sense once you get one idea: it constantly compares what you said you want against what's actually running and fixes the difference. Self-healing, scaling, rolling updates all come from that.
-- A lot of "broken" turned out to be something simple I'd assumed instead of checked — was the file actually there, was the service running, was the tool on PATH. Reading the error literally got me unstuck faster than guessing every time.
+- A lot of "broken" turned out to be something simple I'd assumed instead of checked  was the file actually there, was the service running, was the tool on PATH. Reading the error literally got me unstuck faster than guessing every time.
 - Security and infrastructure aren't things you finish. You keep maintaining them.
